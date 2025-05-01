@@ -1,0 +1,10 @@
+.capys-logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -3.1rem;
+  }
+  
+  .capys-logo img {
+    max-width: 200px;
+    height: auto;
+  }
